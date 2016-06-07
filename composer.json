@@ -6,7 +6,7 @@
         "MIT"
     ],
     "require": {
-        "typo3/flow": "3.*",
+        "typo3/flow": "3.*"
     },
     "autoload": {
         "psr-4": {
