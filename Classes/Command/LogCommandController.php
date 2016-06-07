@@ -19,7 +19,7 @@ use TYPO3\Flow\Configuration\ConfigurationManager;
  *
  * @Flow\Scope("singleton")
  */
-class TestCommandController extends \TYPO3\Flow\Cli\CommandController {
+class LogCommandController extends \TYPO3\Flow\Cli\CommandController {
 
 	/**
 	 * @Flow\Inject
